@@ -5,9 +5,6 @@
 ### RNA-seq
 *2020-03-17*
 
-### Epigenetics and Chromatin State
-*2020-03-24*
-
 - slides [Powerpoint](rnaseq/rnaseq.pptx), [PDF](rnaseq/rnaseq.pdf)
 - TCC-GUI RNA-seq web app <https://infinityloop.shinyapps.io/TCC-GUI/>
 - References
@@ -17,3 +14,9 @@
   - [Zhao 2018](rnaseq/zhao2018_polA_selection_vs_ribosomal_depletion.pdf), on ribosomal RNA depletion strategies
 
 #### Homework
+
+- homework [Word document](rnaseq_homework.docx), [pdf](rnaseq_homework.pdf)
+
+
+### Epigenetics and Chromatin State
+*2020-03-24*
