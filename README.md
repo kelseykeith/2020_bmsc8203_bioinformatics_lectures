@@ -15,7 +15,7 @@
 
 #### Homework
 
-- homework [Word document](rnaseq_homework.docx), [pdf](rnaseq_homework.pdf)
+- homework [Word document](rnaseq/rnaseq_homework.docx), [pdf](rnaseq/rnaseq_homework.pdf)
 
 
 ### Epigenetics and Chromatin State
