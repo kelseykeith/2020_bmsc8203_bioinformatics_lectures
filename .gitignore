@@ -3,3 +3,13 @@ Bioinformatics Calendar 2020.xlsx
 Bioinformatics Syllabus.docx
 Plot_Report.html
 .DS_Store
+epigenetics_and_chromatin_state.pptx
+
+### file names to ignore
+*ANSWER_KEY*
+*~$*
+
+### folders to ignore
+rnaseq/homework/
+rnaseq/tcc_gui/
+epigenetics/homework/
